@@ -1,6 +1,6 @@
 from datetime import date
 from functools import wraps
-
+# TEST
 from flask import Flask, render_template, redirect, url_for, flash, abort
 from flask_bootstrap import Bootstrap
 from flask_ckeditor import CKEditor
